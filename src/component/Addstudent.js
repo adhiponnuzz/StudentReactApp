@@ -14,6 +14,7 @@ const Addstudent = () => {
                 </div>
                 <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                     <label for="" className="from-label">RollNo</label>
+
                     <input placeholder='Rollno' type="text" className="form-control"/>
                 </div>
                 <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
@@ -23,6 +24,7 @@ const Addstudent = () => {
                 <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                     <label for="" className="from-label">University RegNo</label>
                     <input placeholder='University Regno' type="text" className="form-control"/>
+
 
                 </div>
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
